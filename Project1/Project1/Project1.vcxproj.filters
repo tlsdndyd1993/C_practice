@@ -18,5 +18,11 @@
     <ClCompile Include="test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="git_branch_test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+>>>>>>> develop
   </ItemGroup>
 </Project>
