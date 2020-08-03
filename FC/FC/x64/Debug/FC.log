@@ -1,0 +1,3 @@
+﻿  strtok.c
+C:\Users\tlsdn\OneDrive - 경일대학교\programming\c\C_practice\FC\FC\strtok.c(15,1): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  FC.vcxproj -> C:\Users\tlsdn\OneDrive - 경일대학교\programming\c\C_practice\FC\x64\Debug\FC.exe
